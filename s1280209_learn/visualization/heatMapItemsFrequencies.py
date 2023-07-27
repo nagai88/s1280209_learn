@@ -1,0 +1,2 @@
+class heatMapItemsFrequencis():
+    print('test')
